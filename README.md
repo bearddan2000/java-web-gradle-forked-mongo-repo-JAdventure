@@ -1,4 +1,4 @@
-# java-web-gradle-forked-mongo-repo-JAdventure
+# java-web-gradle-spring-forked-mongo-repo-JAdventure
 
 ## Description
 A POC for REST web service using mongodb.
@@ -10,6 +10,7 @@ Uses spring's mongorepository.
 - java
 - gradle
   - mongo connector
+  - spring
 - mongo
 
 ## Docker stack
